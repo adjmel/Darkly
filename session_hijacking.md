@@ -56,6 +56,7 @@ I then sent the request and observed the response. The server returned a **scrip
 The challenge relied on a **poor management of the authentication logic** via an insecure cookie. It was possible to **completely bypass the login form** by providing a properly forged client-side cookie.
 
 ---
-![Capture d’écran 2025-04-11 à 22 45 17](https://github.com/user-attachments/assets/cc531eb3-0b93-4efd-931a-92f2b939c790)
-![Capture d’écran 2025-04-11 à 23 12 45](https://github.com/user-attachments/assets/2bf2a752-e81c-4898-8c06-57182a5112df)
-  
+![Capture d’écran 2025-04-11 à 22 45 17](https://github.com/user-attachments/assets/216c5ae9-2976-4f8f-aa24-d84ae0dfff36)
+![Capture d’écran 2025-04-11 à 23 12 45](https://github.com/user-attachments/assets/d9b1fd98-6e3b-4d30-b57c-0adb62be0fb6)
+
+
