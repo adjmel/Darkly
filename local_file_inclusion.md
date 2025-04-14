@@ -28,5 +28,6 @@ The challenge was based on a **LFI vulnerability** caused by improper handling o
 🎯 **Payload used**: `?page=../../../../../../../../etc/passwd`  
 🏴 **Result**: b12c4b2cb8094750ae121a676269aa9e2872d07c06e429d25a63196ec1c8c1d0
 
-![Capture d’écran 2025-04-13 à 16 27 13](https://github.com/user-attachments/assets/5cedd25c-4b6f-4c25-b4c4-a62fbcb7ee7e)
-![Capture d’écran 2025-04-13 à 16 47 51](https://github.com/user-attachments/assets/2bbb4765-e66b-485b-b430-a68e7f94d7fa)
+![Capture d’écran 2025-04-13 à 16 27 13](https://github.com/user-attachments/assets/a5fb0e05-432e-4ab6-801c-afbbd55a80b4)
+![Capture d’écran 2025-04-13 à 16 47 51](https://github.com/user-attachments/assets/668cf46e-0f45-41e2-b209-c6cfd9cd9d8d)
+
