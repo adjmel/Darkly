@@ -26,5 +26,6 @@ I started on the **login page** and clicked on the **"I forgot my password"** li
 This vulnerability highlights an **issue in the password reset process**, likely caused by **poor validation of the email address** in the request. By simply manipulating the email parameter in the intercepted request, I was able to retrieve sensitive information (the flag). This vulnerability could also be exploited to access sensitive data from other users if the system wasn’t properly secured.
 
 - ![Capture d’écran 2025-04-08 à 23 58 31](https://github.com/user-attachments/assets/e80dc80f-3c0a-4a53-8085-7e86312d7b78)
+- ![Capture d’écran 2025-04-14 à 18 58 02](https://github.com/user-attachments/assets/3501e22a-c49b-4ced-bc0d-862843106c0f)
 - ![Capture d’écran 2025-04-14 à 19 07 43](https://github.com/user-attachments/assets/2e8b88c9-5eb0-42d4-b65b-72fcea4fa2fe)
-![Capture d’écran 2025-04-14 à 18 58 02](https://github.com/user-attachments/assets/3501e22a-c49b-4ced-bc0d-862843106c0f)
+
