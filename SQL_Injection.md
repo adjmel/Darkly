@@ -160,7 +160,7 @@ This message indicated the real flag was hidden in a hash.
 ![Capture d’écran 2025-04-18 à 18 26 21](https://github.com/user-attachments/assets/3555863c-909c-4195-96f6-2a2e220b2d74)
 
 ```
-b8aefde4f2355020ec2d42cf4d3e067c18e5fcfc727b627f0daee7be7c0e6f5e
+10a16d834f9b1e4068b25c4c46fe0284e99e44dceaf08098fc83925ba6310ff5
 ```
 
 ---
